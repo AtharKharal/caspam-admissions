@@ -1,0 +1,89 @@
+
+site_name: Admissions at CASPAM, BZU
+site_url: https://example.com  # Optional: replace with actual URL if deploying
+site_description: Official admission brochures for programs at CASPAM, BZU
+site_author: Dr Athar Kharal
+
+nav:
+  - Home: index.md
+  - Data Science: datasc.md
+  - Artificial Intelligence: ai.md
+  - Finance: fin.md
+  - Quantum & Cryptography: quantum.md
+  - Financial Analytics: finana.md
+  - BS Maths: mathBS.md
+  - ADS Maths: mathADS.md
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: lime
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+  favicon: assets/favicon.ico  # Optional: add your own favicon
+  logo: assets/logo.png        # Optional: use a logo if available
+  font:
+    text: Roboto
+    code: Fira Code
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AtharKharal
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/AtharKharal
+  copyright:
+    text: Website developed by Dr Athar Kharal
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - tables
+
+
+
+# site_name: Admissions at CASPAM, BZU
+# nav:
+#   - Home: index.md
+#   - Data Science: page_01.md
+#   - Artificial Intelligence: page_03.md
+#   - Finance: page_04.md
+#   - Quantum & Cryptography : page_05.md
+#   - Financial Analytics: page_06.md
+#   - BS Maths: page_07.md
+#   - ADS Maths: page_02.md
+# theme:
+#   name: material
+#   features:
+#     - navigation.instant
+#     - navigation.tabs
+#     - navigation.top
+#     - navigation.sections
+#     - toc.integrate
+#     - content.code.copy
+#     - content.action.edit
+# markdown_extensions:
+#   - toc:
+#       permalink: true
+#   - admonition
+#   - codehilite
+#   - footnotes
+#   - meta
+#   - tables
