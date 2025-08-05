@@ -1,0 +1,38 @@
+name: Deploy MkDocs to Vercel
+
+on:
+  push:
+    paths:
+      - '**.md'
+      - 'mkdocs.yml'
+      - '.github/workflows/**'
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Build & Deploy to Vercel
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs mkdocs-material
+
+      - name: Build MkDocs site
+        run: mkdocs build
+
+      - name: Deploy to Vercel
+        run: |
+          npm install -g vercel
+          vercel --token=$VERCEL_TOKEN --prod --confirm
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
