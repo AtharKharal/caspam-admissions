@@ -1,7 +1,6 @@
-
 site_name: Admissions at CASPAM, BZU
-site_url: https://example.com  # Optional: replace with actual URL if deploying
-site_description: Official admission brochures for programs at CASPAM, BZU
+site_url: https://caspam-admissions.vercel.app/
+site_description: Available programs at CASPAM, BZU
 site_author: Dr Athar Kharal
 
 nav:
@@ -33,8 +32,8 @@ theme:
     - toc.integrate
     - content.code.copy
     - content.action.edit
-  favicon: assets/favicon.ico  # Optional: add your own favicon
-  logo: assets/logo.png        # Optional: use a logo if available
+  favicon: assets/favicon.ico # Optional: add your own favicon
+  logo: assets/logo.png # Optional: use a logo if available
   font:
     text: Roboto
     code: Fira Code
@@ -42,9 +41,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/AtharKharal
+      link: https://github.com/AtharKharal1
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/AtharKharal
+      link: https://www.linkedin.com/in/AtharKharal1
   copyright:
     text: Website developed by Dr Athar Kharal
 
@@ -56,9 +55,6 @@ markdown_extensions:
   - footnotes
   - meta
   - tables
-
-
-
 # site_name: Admissions at CASPAM, BZU
 # nav:
 #   - Home: index.md
