@@ -1,18 +1,6 @@
 
-# AIs? Data Science? Finance? Quantum? Analytics
+# AI? Data Science? Finance? Quantum? Analytics
 # Come to CASPAM, apply before 18 August 2025!
----
-
-## 📌 What You’ll Find Here
-
-Explore concise, program-specific pages that follow a consistent structure:
-
-- **Admission Requirements**  
-- **Specialization Streams** (where applicable)  
-- **Scholarship Structure**  
-- **Career Opportunities**  
-- **Application & Contact Details**
-
 ---
 
 ## 🧭 Programs
@@ -30,6 +18,21 @@ Use the sidebar or the links below to explore each academic program:
 Each page provides clarity on entry requirements, scholarships, career outcomes, and program focus.
 
 ---
+
+
+## 📌 What You’ll Find Here
+
+Explore concise, program-specific pages that follow a consistent structure:
+
+- **Admission Requirements**  
+- **Specialization Streams** (where applicable)  
+- **Scholarship Structure**  
+- **Career Opportunities**  
+- **Application & Contact Details**
+
+---
+
+
 
 ## 🎓 Who Should Use This?
 
