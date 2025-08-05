@@ -1,5 +1,5 @@
 !!! tip "💡 Did you know?"
-   The program of Data Science is being offered jointly by Computer Science, Statistics and CASPAM.
+    The program of Data Science is being offered jointly by Computer Science, Statistics and CASPAM.
 
 ## Admission Requirements
 
