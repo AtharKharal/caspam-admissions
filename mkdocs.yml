@@ -14,7 +14,7 @@ nav:
   - ADS Maths: mathADS.md
 
 theme:
-  name: readthedocs # material
+  name: material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
