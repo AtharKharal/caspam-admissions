@@ -1,4 +1,4 @@
-# Admission Requirements
+## Admission Requirements
 
 The pattern for entry is rule-based and requires fulfilling one of the following criteria:
 
