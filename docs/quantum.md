@@ -1,4 +1,4 @@
-# Admission Requirements
+## Admission Requirements
 
 The entry requirements follow a consistent, rule-based pattern. A candidate must meet one of the following:
 
