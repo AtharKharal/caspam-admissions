@@ -17,7 +17,7 @@ Use the sidebar or the links below to explore each academic program:
 Each page provides clarity on entry requirements, scholarships, career outcomes, and program focus.
 
 ---
-!!! tip "💡 Did you know?"
+!!! success "💡 Did you know?"
     Scholarships are available for students scoring 94%+ in A-levels.
 
 ---
