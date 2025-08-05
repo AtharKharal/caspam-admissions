@@ -1,5 +1,5 @@
 
-# AI? Data Science? Finance? Quantum? Analytics
+# AIs? Data Science? Finance? Quantum? Analytics
 # Come to CASPAM, apply before 18 August 2025!
 ---
 
