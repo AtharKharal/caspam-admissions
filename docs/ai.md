@@ -13,7 +13,7 @@ The entry requirements follow a clear set of rules. A candidate must meet one of
 ## Contact Information
  
 -  **Application Deadline**: 18 August 2025
--  **Application Portal**: [Apply Online: https://portal.bzu.edu.pk/admissions/](https://portal.bzu.edu.pk/admissions/)  
+-  **Application Portal**: <a href="https://portal.bzu.edu.pk/admissions/" target="_blank">BZU Admission Portal</a>  
 - **Contact**: Dr. Awais Younus — +92 331 7040 361
 
 ## Scholarship Structure
