@@ -46,6 +46,17 @@ extra:
       link: https://www.linkedin.com/in/AtharKharal1
   copyright:
     text: Website developed by Dr Athar Kharal
+  meta:
+    - property: og:title
+      content: Admissions at CASPAM, BZU
+    - property: og:description
+      content: Explore structured admissions for Data Science, AI, and Mathematics at BZU.
+    - property: og:image
+      content: https://your-domain.com/assets/favicon-32x32.png
+    - property: og:url
+      content: https://caspam-admissions.vercel.app/
+    - property: og:type
+      content: website
 
 markdown_extensions:
   - toc:
