@@ -1,4 +1,5 @@
-This program is jointly offered by Computer Science Department and CASPAM. 
+!!! tip "💡 Did you know?"
+    This program is jointly offered by Computer Science Department and CASPAM. 
 
 
 ## Admission Requirements
