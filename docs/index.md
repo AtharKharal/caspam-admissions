@@ -50,7 +50,7 @@ This site is ideal for:
 
 ## 🚀 Ready to Apply?
 
-Visit the [BZU Admission Portal](https://portal.bzu.edu.pk/admissions/)  
+Visit the <a href="https://portal.bzu.edu.pk/admissions/" target="_blank">BZU Admission Portal</a>   
 📅 **Application Deadline:** 18 August 2025  
 📞 **Contact:** Dr. Awais Younus — +92 331 7040 361
 
