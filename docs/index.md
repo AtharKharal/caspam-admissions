@@ -1,7 +1,6 @@
-# Welcome to CASPAM Program Brochures
 
-This documentation site provides a structured overview of undergraduate degree programs offered at **CASPAM, Bahauddin Zakariya University (BZU)**. Each program is meticulously designed to align academic training with industry-relevant outcomes, financial support pathways, and specialization options.
-
+# AI? Data Science? Finance? Quantum? Analytics
+# Come to CASPAM, apply before 18 August 2025!
 ---
 
 ## 📌 What You’ll Find Here
