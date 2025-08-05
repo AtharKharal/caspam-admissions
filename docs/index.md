@@ -1,5 +1,5 @@
 
-# AI? Data Science? Finance? Quantum? Analytics?  - Come to CASPAM, <a href="https://portal.bzu.edu.pk/admissions/" style="font-size: 1.5em; font-weight: bold; color: #e60000; text-decoration: underline;">APPLY</a> before 18 August 2025!
+# AI? Data Science? Finance? Quantum? Analytics?  - Come to CASPAM, <a href="https://portal.bzu.edu.pk/admissions/" target="_blank" style="font-size: 1.5em; font-weight: bold; color: #e60000; text-decoration: underline;">APPLY</a> before 18 August 2025!
 
 ---
 
