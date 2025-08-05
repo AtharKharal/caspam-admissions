@@ -1,3 +1,6 @@
+This program is jointly offered by Computer Science Department and CASPAM. 
+
+
 ## Admission Requirements
 
 The entry requirements follow a clear set of rules. A candidate must meet one of the following criteria:

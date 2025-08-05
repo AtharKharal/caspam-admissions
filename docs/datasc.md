@@ -1,3 +1,5 @@
+The program of Data Science is being offered jointly by Computer Science, Statistics and CASPAM.
+
 ## Admission Requirements
 
 The entry into the program is governed by a set of well-defined rules. You must satisfy one of the following:
