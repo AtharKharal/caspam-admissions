@@ -32,7 +32,7 @@ theme:
     - toc.integrate
     - content.code.copy
     - content.action.edit
-  favicon: assets/favicon.ico # Optional: add your own favicon
+  favicon: assets/favicon-32x32.png # Optional: add your own favicon
   logo: assets/logo.png # Optional: use a logo if available
   font:
     text: Roboto
